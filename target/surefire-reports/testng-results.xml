@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="9" passed="9">
+  <reporter-output>
+  </reporter-output>
+  <suite name="com.anuradha.searchapi.searchApiTest" duration-ms="9942" started-at="2016-10-28T07:50:08Z" finished-at="2016-10-28T07:50:18Z">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="9942" started-at="2016-10-28T07:50:08Z" finished-at="2016-10-28T07:50:18Z">
+      <class name="com.anuradha.searchapi.searchApiTest">
+        <test-method status="PASS" signature="test_resultcount()[pri:0, instance:com.anuradha.searchapi.searchApiTest@2acf57e3]" name="test_resultcount" duration-ms="2178" started-at="2016-10-28T03:50:08Z" finished-at="2016-10-28T03:50:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_resultcount -->
+        <test-method status="PASS" signature="test_results_size()[pri:0, instance:com.anuradha.searchapi.searchApiTest@2acf57e3]" name="test_results_size" duration-ms="736" started-at="2016-10-28T03:50:10Z" finished-at="2016-10-28T03:50:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_results_size -->
+        <test-method status="PASS" signature="test_status()[pri:0, instance:com.anuradha.searchapi.searchApiTest@2acf57e3]" name="test_status" duration-ms="143" started-at="2016-10-28T03:50:11Z" finished-at="2016-10-28T03:50:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_status -->
+        <test-method status="PASS" signature="test_term_country()[pri:0, instance:com.anuradha.searchapi.searchApiTest@2acf57e3]" name="test_term_country" duration-ms="1017" started-at="2016-10-28T03:50:11Z" finished-at="2016-10-28T03:50:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_term_country -->
+        <test-method status="PASS" signature="test_term_country_invalid()[pri:0, instance:com.anuradha.searchapi.searchApiTest@2acf57e3]" name="test_term_country_invalid" duration-ms="475" started-at="2016-10-28T03:50:12Z" finished-at="2016-10-28T03:50:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_term_country_invalid -->
+        <test-method status="PASS" signature="test_term_limit_max_resultcount()[pri:0, instance:com.anuradha.searchapi.searchApiTest@2acf57e3]" name="test_term_limit_max_resultcount" duration-ms="2807" started-at="2016-10-28T03:50:13Z" finished-at="2016-10-28T03:50:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_term_limit_max_resultcount -->
+        <test-method status="PASS" signature="test_term_limit_resultcount()[pri:0, instance:com.anuradha.searchapi.searchApiTest@2acf57e3]" name="test_term_limit_resultcount" duration-ms="1382" started-at="2016-10-28T03:50:15Z" finished-at="2016-10-28T03:50:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_term_limit_resultcount -->
+        <test-method status="PASS" signature="test_term_media()[pri:0, instance:com.anuradha.searchapi.searchApiTest@2acf57e3]" name="test_term_media" duration-ms="873" started-at="2016-10-28T03:50:17Z" finished-at="2016-10-28T03:50:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_term_media -->
+        <test-method status="PASS" signature="test_term_media_invalid()[pri:0, instance:com.anuradha.searchapi.searchApiTest@2acf57e3]" name="test_term_media_invalid" duration-ms="320" started-at="2016-10-28T03:50:18Z" finished-at="2016-10-28T03:50:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_term_media_invalid -->
+      </class> <!-- com.anuradha.searchapi.searchApiTest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- com.anuradha.searchapi.searchApiTest -->
+</testng-results>

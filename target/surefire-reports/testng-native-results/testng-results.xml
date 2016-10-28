@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Command line suite" duration-ms="2674" started-at="2016-10-28T07:14:40Z" finished-at="2016-10-28T07:14:43Z">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="2674" started-at="2016-10-28T07:14:40Z" finished-at="2016-10-28T07:14:43Z">
+      <class name="com.anuradha.searchapi.searchApiTest">
+        <test-method status="PASS" signature="test_resultcount()[pri:0, instance:com.anuradha.searchapi.searchApiTest@edf4efb]" name="test_resultcount" duration-ms="2477" started-at="2016-10-28T03:14:40Z" finished-at="2016-10-28T03:14:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_resultcount -->
+        <test-method status="PASS" signature="test_status()[pri:0, instance:com.anuradha.searchapi.searchApiTest@edf4efb]" name="test_status" duration-ms="186" started-at="2016-10-28T03:14:43Z" finished-at="2016-10-28T03:14:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_status -->
+      </class> <!-- com.anuradha.searchapi.searchApiTest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- Command line suite -->
+</testng-results>

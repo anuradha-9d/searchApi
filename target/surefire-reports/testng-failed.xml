@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite verbose="0" name="Failed suite [com.anuradha.searchapi.searchApiTest]">
+  <test name="Command line test(failed)">
+    <classes>
+      <class name="com.anuradha.searchapi.searchApiTest">
+        <methods>
+          <include name="test_resultcount"/>
+          <include name="test_results_size"/>
+        </methods>
+      </class> <!-- com.anuradha.searchapi.searchApiTest -->
+    </classes>
+  </test> <!-- Command line test(failed) -->
+</suite> <!-- Failed suite [com.anuradha.searchapi.searchApiTest] -->
