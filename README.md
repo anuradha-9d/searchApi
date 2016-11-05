@@ -17,4 +17,4 @@ This will download all the required jars and run the unittests.
 
 
 restClient.java, restInterface.java, searchApiParser.java has the classes.
-searchApiTest.java has the tests
+searchApiTest.java has the tests written using testNG. 
